@@ -28,13 +28,24 @@ public class Hello {
 
             instead of " !
 
-            '' is not the same as "
- */
+            '' is not the same as "*/
 
             System.out.println("\nA\"quoted\" String is \n \'much\' better if you learn\n the rules of \"escape sequences.\"\n Also, \"\" represents an empty String");
 
+            /*4. WAP that prints the following pattern:
 
- 
+            *
+
+            **
+
+            ***
+
+            **** */
+            
+            System.out.println("\n*\n**\n***\n****");
+            
+
+    
 
     }
 }
