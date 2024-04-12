@@ -55,6 +55,26 @@ public class Hello {
             ********* */
             System.out.println("\n*********\n*********\n*********\n*********");
 
+            /*6. WAP that prints the following output:
+
+            A well-formed Java program has a main method with { and } braces.
+
+
+
+            A System.out.println statement has ( and ) and usually a String that starts and ends with a " character.
+
+            (But we type \" instead!)
+
+            What is the difference between
+
+            a ' and a "?  Or between a " and a \"? */
+            
+
+            System.out.println("A well-formed Java program has a main method with { and } braces.");
+            System.out.println("\n\n\n A System.out.println statement has ( and ) and usually a String that starts and ends with a \" character. ");
+            System.out.println("\n (But we type \\\" instead!)  ");
+            System.out.println("\n What is the difference between \n \na\' and a \"?  Or between a \" and a \\\"?");
+
 
     
 
