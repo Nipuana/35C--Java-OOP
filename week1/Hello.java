@@ -43,7 +43,18 @@ public class Hello {
             **** */
             
             System.out.println("\n*\n**\n***\n****");
-            
+
+            /*5. WAP prints the following pattern:
+
+            *********
+
+            *********
+
+            *********
+
+            ********* */
+            System.out.println("\n*********\n*********\n*********\n*********");
+
 
     
 
