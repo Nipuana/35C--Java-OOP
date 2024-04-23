@@ -3,9 +3,26 @@ package week3;
 public class SwitchCase {
     public static void main(String[] args) {
         
-char value='a';
+        char value='a';
+        int numVal=10;
+
+          /*Nested switch */
+        
+          
+
         switch (value) {
             case 'a':
+           
+                //Nested switch
+                switch(numVal){
+                    case 10:
+                    System.out.println("10");
+                    break;
+        
+                    default:
+                    System.out.println("Default");
+                }
+  
                 System.out.println("Apple");
                 break;
             case 'b':
@@ -22,6 +39,10 @@ char value='a';
             System.out.println("No word found");
                 break;
         }
+
+
+
+      
 
     }
 }
