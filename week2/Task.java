@@ -50,6 +50,10 @@ public class Task {
         String out=tenexp?"Yes the given number is greater than or equals to 18":"No the given number is not greater than or equals to 18";
 
         System.out.println(out);
+
+
+
+        
         
 
 
